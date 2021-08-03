@@ -54,7 +54,7 @@ nav .nav-items li{
 nav .nav-items li a{
     color: #7D93B2;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     text-decoration: none;
 
 }
@@ -665,6 +665,7 @@ input{
     background-color: transparent;
     border: 0;
     padding: 0;
+    outline: none;
     height: 38px;
     max-width: 58%;
     transition: border-color .3s ease-in,color 1s linear;
