@@ -502,6 +502,7 @@ h2{
 }
 .no{
     font-size: 60px;
+    padding: 0 20px;
     font-weight: 700;
     color: #022B69;
 }
