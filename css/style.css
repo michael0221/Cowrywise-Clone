@@ -849,12 +849,12 @@ footer{
 
 @media screen and (max-width: 700px){
     nav .nav-items{
-        display: block; 
+        display: none; 
     }
     nav .nav-items li{
         margin-top: 30px;
     }
-    .nav-links{
+    /* .nav-links{
         position: absolute;
         background-color: #B4F1F1;
         height: 100vh;
@@ -865,10 +865,10 @@ footer{
         text-align: left;
         z-index: 2;
         transition: 1.5s;
-    }
-    /* #icon{
-        display: n;
     } */
+    #icon{
+        display: none;
+    }
     nav .icons{
         display: inline;
         color: black;
